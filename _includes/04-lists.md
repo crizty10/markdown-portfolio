@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+My hobbies are gaming, coding and tripping...!!
+Pursuing my B.TECH degree
+Wishing to change the world
