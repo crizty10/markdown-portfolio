@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* *"All your **DrEaMs** can come true, if you have the **Courage** to pursue them...!!!"*
+* *Nothing is **IMPOSSIBLE** !!!*
