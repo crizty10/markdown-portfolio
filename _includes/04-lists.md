@@ -1,3 +1,3 @@
-My hobbies are gaming, coding and tripping...!!
-Pursuing my B.TECH degree
-Wishing to change the world
+- My hobbies are gaming, coding and tripping...!!
+- Pursuing my B.TECH degree
+- Wishing to change the world
