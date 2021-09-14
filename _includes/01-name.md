@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hello....!!!!!
+## I'm Christy Vinny
+#### 2nd year CSE student @ SCET, Kodakara
